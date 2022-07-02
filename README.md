@@ -1,6 +1,6 @@
-# users_app
+# Uber Clone User Side Appliction
 
-This is User side of uber clone app.. Note that everything is ready you just need to add google cloud api's in this project..
+#This is User side of uber clone app.. Note that everything is ready you just need to add google cloud api's in this project..
 
 
 ## Getting Started
