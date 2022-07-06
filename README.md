@@ -4,6 +4,7 @@
 
 
 ## Getting Started
+![Spash Screen](C:\Users\Muhammad\AndroidStudioProjects\users_app\images\splash.png)
 
 This project is a starting point for a Flutter application.
 
