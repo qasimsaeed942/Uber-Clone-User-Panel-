@@ -4,7 +4,7 @@
 
 
 ## Getting Started
-## ![splash](https://user-images.githubusercontent.com/38465097/177495676-c397ebd0-05dc-4adf-b28e-8e321fec40ff.png)
+![splash](https://user-images.githubusercontent.com/38465097/177497055-11555694-ff60-4579-9448-a8315bc3a4c4.png)
 
 This project is a starting point for a Flutter application.
 
