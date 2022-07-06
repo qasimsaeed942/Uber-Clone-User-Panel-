@@ -4,7 +4,7 @@
 
 
 ## Getting Started
-![Spash Screen](C:\Users\Muhammad\AndroidStudioProjects\users_app\images\splash.png)
+![splash](https://user-images.githubusercontent.com/38465097/177495676-c397ebd0-05dc-4adf-b28e-8e321fec40ff.png)
 
 This project is a starting point for a Flutter application.
 
