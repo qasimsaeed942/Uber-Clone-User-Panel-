@@ -11,14 +11,11 @@
 
 
 This project is a clone of Uber, InDriver and Bikya Application:
-- Backend is based on RealTime Firebase. 
-- In this application i use the google Api's for maps and many other services..
+- [Backend is based on RealTime Firebase]. 
+- [In this application i use the google Api's for maps and many other services..]
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can find out this application on playstore, the link is given below:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Click Here](https://play.google.com/store/apps/details?id=com.RideKr.users_app)
+
